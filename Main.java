@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
 
-        byte Дней = 10;
-        short Недель = 300;
-        int Месяцев = 24;
-        long Годов = 3;
-        float Уроков = 2;
-        double Дс = 5;
+        byte days = 10;
+        short weeks = 300;
+        int mounths = 24;
+        long years = 3;
+        float plays = 2;
+        double work = 5;
 
 
 
